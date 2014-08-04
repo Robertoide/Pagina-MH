@@ -5,15 +5,17 @@
 		'message'=>'Email sent!'
 	);
 
-    $name = @trim(stripslashes($_POST['name'])); 
-    $email = @trim(stripslashes($_POST['email'])); 
-    $subject = @trim(stripslashes($_POST['subject'])); 
-    $message = @trim(stripslashes($_POST['message'])); 
+    $nombre = @trim(stripslashes($_POST['Nombre'])); 
+    $apellido = @trim(stripslashes($_POST['Apellido']));
+    $telefono = @trim(stripslashes($_POST['Telefono']));
+    $email = @trim(stripslashes($_POST['Email'])); 
+    $mesaje = @trim(stripslashes($_POST['Mensaje'])); 
 
+    $subject = 'Contacto Pagina';
     $email_from = $email;
-    $email_to = 'email@gmail.com';
+    $email_to = 'r.i.o.p@live.com';
 
-    $body = 'Name: ' . $name . "\n\n" . 'Email: ' . $email . "\n\n" . 'Subject: ' . $subject . "\n\n" . 'Message: ' . $message;
+    $body = 'Nombre: ' . $nombre . "\n\n" .  'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" .'Email: ' . $email . "\n\n" . 'Mensaje: ' . $mensaje;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
 
