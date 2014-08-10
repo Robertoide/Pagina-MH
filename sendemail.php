@@ -10,7 +10,7 @@
     $email_to = 'r.i.o.p@live.cl';
     $subject = 'Contacto';
     
-    $body = 'Name: ' . $nombre . "\n\n" . 'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" . 'Email: ' . $email . "\n\n" .  'Mensaje: ' . $mensaje;
+    $body = 'Nombre: ' . $nombre . "\n\n" . 'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" . 'Email: ' . $email . "\n\n" .  'Mensaje: ' . $mensaje;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
 
@@ -94,7 +94,7 @@
     <section id="contact-page" class="container">
         <div class="row">
             <div class="col-sm-8">
-                <h4>Mensaje enviado</h4>
+                <h4>Mensaje Enviado</h4>
                 <!--<div class="status alert alert-success">Mensaje enviado con exito</div>-->
                 <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php" role="form">
                     <div class="row">
@@ -119,7 +119,7 @@
                             </div>
                         </div>-->
                         
-                        <input type="button" onclick=" location.href='Contacto.html' " value="Vamos" name="Volver" /> 
+                        <input type="button" onclick=" location.href='Contacto.html' " value="Volver" name="Volver" /> 
                     </div>
                 </form>
             </div><!--/.col-sm-8-->
