@@ -119,7 +119,7 @@
                             </div>
                         </div>-->
                         
-                        <button href="Contacto.html">Volver</button>
+                        <input type="button" onclick=" location.href='Contacto.html' " value="Vamos" name="Volver" /> 
                     </div>
                 </form>
             </div><!--/.col-sm-8-->
@@ -130,7 +130,7 @@
         </div>
     </section><!--/#contact-page-->
     
-    <div style="height:100px; width: 1024px"></div>
+    <div style="height:380px; width: 1024px"></div>
 
     <footer id="footer" class="midnight-blue">
         <div class="container">
