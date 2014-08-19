@@ -7,15 +7,12 @@
     $mensaje = @trim(stripslashes($_POST['Mensaje'])); 
 
     $email_from = $email;
-    $email_to = 'r.i.o.p@live.cl';
+    $email_to = 'yo.soy.roberto@live.cl';
     $subject = 'Contacto';
     
     $body = 'Nombre: ' . $nombre . "\n\n" . 'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" . 'Email: ' . $email . "\n\n" .  'Mensaje: ' . $mensaje;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
-
-//    echo json_encode($status);
-//    die;
 
     ?>
 <!DOCTYPE html>
@@ -32,8 +29,8 @@
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
     <!--[if lt IE 9]>-->
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
+<!--    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>-->
     <!--<![endif]-->       
     <link rel="shortcut icon" href="images/ico/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
@@ -108,6 +105,6 @@
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.prettyPhoto.js"></script>
-    <script src="js/main.js"></script>
+    <!--<script src="js/main.js"></script>-->
 </body>
 </html>
