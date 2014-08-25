@@ -7,7 +7,7 @@
     $mensaje = @trim(stripslashes($_POST['Mensaje'])); 
 
     $email_from = $email;
-    $email_to = 'yo.soy.roberto@live.cl';
+    $email_to = 'r.i.o.p@live.cl';
     $subject = 'Contacto';
     
     $body = 'Nombre: ' . $nombre . "\n\n" . 'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" . 'Email: ' . $email . "\n\n" .  'Mensaje: ' . $mensaje;
@@ -44,7 +44,7 @@
     <section id="contact-page" class="container">
         <div class="status alert alert-success">Mensaje enviado con exito</div>   
                 <div class="form-group">
-                    <button type="submit" onclick=" location.href='Contacto.html' " class="btn btn-primary btn-lg">Volver</button>
+                    <button type="submit" onclick=" location.href='Contacto.php' " class="btn btn-primary btn-lg">Volver</button>
                 </div>
     </section> 
     <div style="height:320px; width: 1024px"></div>
