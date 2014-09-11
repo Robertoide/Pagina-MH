@@ -39,9 +39,9 @@
     <div class="center">
       <th colspan="3">
         <h2>Maquinas de Ejercicio</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('catalogos/Precios Tradicionales.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Maquinas Ejercicios.pdf')"><!--/a-->
       </th></div>
-
+    <div style="height:130px; width: 1024px"></div>
   </section>
   <!-- /Career -->
 
