@@ -27,13 +27,13 @@
     <div class="center">
       <th colspan="3">
         <h2>Juegos Modulares</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('catalogos/Precios Tradicionales.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Juegos Modulares.pdf')"><!--/a-->
       </th></div>
     <hr>
     <div class="center">
       <th colspan="3">
         <h2>Mobiliario Urbano</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('catalogos/Precios Tradicionales.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Mobiliario Urbano.pdf')"><!--/a-->
       </th></div>
     <hr>
     <div class="center">
