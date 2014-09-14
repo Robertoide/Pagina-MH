@@ -63,7 +63,7 @@
     <section id="error" class="container">
         <h1>404, Page not found</h1>
         <p>The Page you are looking for doesn't exist or an other error occurred.</p>
-        <a class="btn btn-success" href="index.html">Volver al Home</a>
+        <a class="btn btn-success" href="index.php">Volver al Home</a>
     </section><!--/#error-->
     
     <script src="js/jquery.js"></script>

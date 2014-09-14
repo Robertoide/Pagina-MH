@@ -37,7 +37,7 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="Nosotros.php">Nosotros</a></li>
+                        <li><a href="404.php">Nosotros</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Servicios <i class="icon-angle-down"></i></a>
                             <ul class="dropdown-menu">

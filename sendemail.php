@@ -7,7 +7,7 @@
     $mensaje = @trim(stripslashes($_POST['Mensaje'])); 
 
     $email_from = $email;
-    $email_to = 'r.i.o.p@live.cl';
+    $email_to = 'andrea.concha1975@hotmail.com';
     $subject = 'Contacto';
     
     $body = 'Nombre: ' . $nombre . "\n\n" . 'Apellido: ' . $apellido . "\n\n" .'Telefono: ' . $telefono . "\n\n" . 'Email: ' . $email . "\n\n" .  'Mensaje: ' . $mensaje;
