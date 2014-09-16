@@ -28,7 +28,7 @@
             <ol class="carousel-indicators">
                 <li data-target="#main-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#main-slider" data-slide-to="1"></li>
-                <li data-target="#main-slider" data-slide-to="2"></li>
+                <!--<li data-target="#main-slider" data-slide-to="2"></li>-->
             </ol>
             <div class="carousel-inner">
                 <div class="item active" style="background-image: url(images/slider/MetalPlaza-Juegos01.jpg)">
@@ -37,7 +37,7 @@
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
                                     <h2 class="animation animated-item-1">Creando Diversion</h2>
-                                    <p class="animation animated-item-2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    <!--<p class="animation animated-item-2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>-->
                                 </div>
                             </div>
                         </div>
