@@ -33,16 +33,16 @@
                     <div class="row">
                         <div class="col-sm-10">
                             <div class="form-group">
-                                <input type="text" name="Nombre" class="form-control" required="required" placeholder="Nombre">
+                                <input type="text" name="Nombre" class="form-control" required="required" placeholder="Nombre" autocomplete="off">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Apellido" class="form-control" required="required" placeholder="Apellido">
+                                <input type="text" name="Apellido" class="form-control" required="required" placeholder="Apellido" autocomplete="off">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Telefono" class="form-control" required="required" placeholder="Telefono">
+                                <input type="text" name="Telefono" class="form-control" required="required" placeholder="Telefono" autocomplete="off">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Email" class="form-control" required="required" placeholder="Email">
+                                <input type="text" name="Email" class="form-control" required="required" placeholder="Email" autocomplete="off">
                             </div>
                             <div class="form-group">
                                 <textarea name="Mensaje" id="Mensaje" required="required" class="form-control" rows="8" placeholder="Mensaje"></textarea>
