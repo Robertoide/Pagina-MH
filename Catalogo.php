@@ -27,19 +27,19 @@
     <div class="center">
       <th colspan="3">
         <h2>Juegos Modulares</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Juegos Modulares.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Pdf/Metal Plaza - Juegos Modulares.pdf')"><!--/a-->
       </th></div>
     <hr>
     <div class="center">
       <th colspan="3">
         <h2>Mobiliario Urbano</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Mobiliario Urbano.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Pdf/Metal Plaza - Mobiliario Urbano.pdf')"><!--/a-->
       </th></div>
     <hr>
     <div class="center">
       <th colspan="3">
         <h2>Maquinas de Ejercicio</h2> <!--a href="catalogos/Precios Tradicionales.pdf"-->
-        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Catalogo/Metal Plaza - Maquinas Ejercicios.pdf')"><!--/a-->
+        <img class="catalogimg" src="images/descargar.png" onclick="window.open('Pdf/Metal Plaza - Maquinas Ejercicios.pdf')"><!--/a-->
       </th></div>
     <div style="height:130px; width: 1024px"></div>
   </section>

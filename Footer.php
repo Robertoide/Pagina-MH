@@ -31,9 +31,9 @@
                     </div>
                     <div class="col-sm-6">
                         <ul class="pull-right">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="Nosotros.php">Nosotros</a></li>
-                            <li><a href="Contacto.php">Contacto</a></li>
+                            <li><a href="index">Home</a></li>
+                            <li><a href="Nosotros">Nosotros</a></li>
+                            <li><a href="Contacto">Contacto</a></li>
                             <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                         </ul>
                     </div>
