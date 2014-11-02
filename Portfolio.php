@@ -28,52 +28,62 @@
         <ul class="portfolio-filter">
             <li><a class="btn btn-default active" href="#" data-filter="*">Todas</a></li>
             <li><a class="btn btn-default" href="#" data-filter=".Juegos">Juegos Infantiles</a></li>
-            <li><a class="btn btn-default" href="#" data-filter=".Ejercicio">Ejercicio</a></li>
-            <li><a class="btn btn-default" href="#" data-filter=".Moviliario">Moviliario Urbano</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".Ejercicio">Ejercicios</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".Mobiliario">Mobiliario Urbano</a></li>
             <li><a class="btn btn-default" href="#" data-filter=".Llanquihue">Plaza de Llanquihue</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".Paipote">Copiapo - Paipote</a></li>
         </ul><!--/#portfolio-filter-->
 
         <ul class="portfolio-items col-3">
             <li class="portfolio-item Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/J.I/imag 01.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>Tobogan</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/J.I/imag 01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
-            <li class="portfolio-item Llanquihue Moviliario">
+            <li class="portfolio-item Llanquihue Mobiliario">
                 <div class="item-inner">
-                    <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MoviliarioUrbano-Basurero02.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MobiliarioUrbano-Basurero02.jpg" alt="">
+                    <h5>Triple Basurero Oval</h5>
                     <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MoviliarioUrbano-Basurero02.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MobiliarioUrbano-Basurero02.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
-             <li class="portfolio-item Moviliario">
+             <li class="portfolio-item Mobiliario">
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 40.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>Escaño Antivandalico con Respaldo</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 40.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
                 </div>           
             </li>
-            <li class="portfolio-item Llanquihue Moviliario">
+            <li class="portfolio-item Llanquihue Mobiliario">
                 <div class="item-inner">
-                    <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MoviliarioUrbano-Basurero01.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MobiliarioUrbano-Basurero01.jpg" alt="">
+                    <h5>Triple Basurero Oval</h5>
                     <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MoviliarioUrbano-Basurero01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-MobiliarioUrbano-Basurero01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                    </div>           
+                </div>           
+            </li>
+            <li class="portfolio-item Ejercicio Paipote">
+                <div class="item-inner">
+                    <img src="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Ejercicios01.jpg" alt="">
+                    <h5>....</h5>
+                    <div class="overlay">
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Ejercicios01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
             <li class="portfolio-item Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/J.I/imag 04.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/imag 04.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>        
                     </div>           
@@ -82,16 +92,16 @@
             <li class="portfolio-item Llanquihue Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue05.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue05.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
-            <li class="portfolio-item Moviliario"> 
+            <li class="portfolio-item Mobiliario"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 06.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>...</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 06.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>          
                     </div>           
@@ -100,25 +110,34 @@
             <li class="portfolio-item Llanquihue Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue04.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue04.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
-            <li class="portfolio-item Moviliario"> 
+            <li class="portfolio-item Mobiliario"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 05.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 05.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>          
                     </div>    
                 </div>       
             </li>
+            <li class="portfolio-item Ejercicio Paipote">
+                <div class="item-inner">
+                    <img src="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Ejercicios02.jpg" alt="">
+                    <h5>....</h5>
+                    <div class="overlay">
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Ejercicios02.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                    </div>           
+                </div>           
+            </li>
             <li class="portfolio-item Llanquihue Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue03.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue03.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
@@ -127,7 +146,7 @@
             <li class="portfolio-item Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/J.I/imag 29.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/imag 29.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
@@ -136,16 +155,25 @@
             <li class="portfolio-item Llanquihue Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue02.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue02.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
                 </div>           
             </li>
-            <li class="portfolio-item Moviliario"> 
+            <li class="portfolio-item Modulares Paipote">
+                <div class="item-inner">
+                    <img src="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Modulares01.jpg" alt="">
+                    <h5>....</h5>
+                    <div class="overlay">
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Modulares01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                    </div>           
+                </div>           
+            </li>
+            <li class="portfolio-item Mobiliario"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 15.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>Triple Basurero Oval</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 15.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
@@ -154,7 +182,7 @@
             <li class="portfolio-item Llanquihue Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue01.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Llanquihue/MetalPlaza-JuegosInfantiles-Llanquihue01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
                     </div>           
@@ -163,16 +191,16 @@
             <li class="portfolio-item Ejercicio"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.E/imag 22.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.E/imag 22.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
                 </div>           
             </li> 
-            <li class="portfolio-item Moviliario"> 
+            <li class="portfolio-item Mobiliario"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 38.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 38.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
@@ -181,7 +209,7 @@
             <li class="portfolio-item Juegos"> 
                 <div class="item-inner">
                     <img src="images/portfolio/J.I/imag 02.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/J.I/imag 02.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>              
                     </div>           
@@ -190,16 +218,25 @@
             <li class="portfolio-item Ejercicio">
                 <div class="item-inner">
                     <img src="images/portfolio/M.E/imag 20.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.E/imag 20.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
                 </div>           
             </li> 
+            <li class="portfolio-item Modulares Paipote">
+                <div class="item-inner">
+                    <img src="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Toldo01.jpg" alt="">
+                    <h5>....</h5>
+                    <div class="overlay">
+                        <a class="preview btn btn-danger" href="images/portfolio/Instalaciones/Copiapo/MetalPlaza-Copiapo-Toldo01.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
+                    </div>           
+                </div>           
+            </li>
             <li class="portfolio-item Ejercicio"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.E/imag 19.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.E/imag 19.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
@@ -208,16 +245,16 @@
             <li class="portfolio-item Juegos">
                 <div class="item-inner">
                     <img src="images/portfolio/J.I/imag 18.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/J.I/imag 18.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
                 </div>           
             </li> 
-            <li class="portfolio-item Moviliario"> 
+            <li class="portfolio-item Mobiliario"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.U/imag 41.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>Escaño Antivandalico con Respaldo</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.U/imag 41.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           
@@ -226,7 +263,7 @@
             <li class="portfolio-item Ejercicio"> 
                 <div class="item-inner">
                     <img src="images/portfolio/M.E/imag 24.jpg" alt="">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>....</h5>
                     <div class="overlay">
                         <a class="preview btn btn-danger" href="images/portfolio/M.E/imag 24.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>           
                     </div>           

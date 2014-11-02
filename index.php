@@ -31,7 +31,7 @@
                 <!--<li data-target="#main-slider" data-slide-to="2"></li>-->
             </ol>
             <div class="carousel-inner">
-                <div class="item active" style="background-image: url(images/slider/MetalPlaza-Juegos01.jpg)">
+                <div class="item active" style="background-image: url(images/slider/MetalPlaza-Copiapo-Paipote.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -87,7 +87,7 @@
         </a>
     </section><!--/#main-slider-->
 
-    <section id="services" class="emerald">
+    <!-- <section id="services" class="emerald">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-6">
@@ -124,7 +124,7 @@
                     </div>
                 </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include("Footer.php"); ?>
 

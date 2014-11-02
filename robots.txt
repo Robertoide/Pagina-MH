@@ -1,0 +1,65 @@
+# Crawler de Bing
+User-agent: Bingbot 
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Mediapartners
+User-agent: Mediapartners
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Google
+User-agent: Googlebot
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+User-agent: Slurp
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+User-agent: Scooter
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de MSN Search
+User-agent: msnbot
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Yahoo
+User-agent: yahoo-slurp
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Ask/Teoma
+User-agent: teoma
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Cuil
+User-agent: twiceler
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de GigaBlast
+User-agent: gigabot
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Scrub The Web
+User-agent: scrubby
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de DMOZ Checker
+User-agent: robozilla
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Google Image
+User-agent: Googlebot-image
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+# Crawler de Google Mobile
+User-agent: Googlebot-mobile
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+
+User-agent: noxtrumbot 
+Sitemap: http://www.metalplaza.cl/sitemap.xml
+Crawl-delay: 30
+Disallow: /Contacto
+Disallow: /Portafolio
+Disallow: /Nosotros
+Disallow: /index
+Disallow: /Garantia
+Disallow: /Catalogo
+Disallow: /sendemail
+

@@ -33,16 +33,16 @@
                     <div class="row">
                         <div class="col-sm-10">
                             <div class="form-group">
-                                <input type="text" name="Nombre" class="form-control" required="required" placeholder="Nombre" autocomplete="off">
+                                <input type="text" name="Nombre" class="form-control" required="required" placeholder="Nombre">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Apellido" class="form-control" required="required" placeholder="Apellido" autocomplete="off">
+                                <input type="text" name="Apellido" class="form-control" required="required" placeholder="Apellido">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Telefono" class="form-control" required="required" placeholder="Telefono" autocomplete="off">
+                                <input type="text" name="Telefono" class="form-control" required="required" placeholder="Telefono">
                             </div>
                             <div class="form-group">
-                                <input type="text" name="Email" class="form-control" required="required" placeholder="Email" autocomplete="off">
+                                <input type="text" name="Email" class="form-control" required="required" placeholder="Email">
                             </div>
                             <div class="form-group">
                                 <textarea name="Mensaje" id="Mensaje" required="required" class="form-control" rows="8" placeholder="Mensaje"></textarea>
@@ -51,11 +51,12 @@
                                 <button type="submit" class="btn btn-primary btn-lg">Enviar</button>
                             </div>
                         </div>
-                        
                     </div>
                 </form>
             </div><!--/.col-sm-8-->
         </div>
+        <h4>Telefono de Contacto: +56 9 6578 2714</h4>
+        Si deseas contactarnos directamente, comunicate con nuestra representante Andrea Concha. 
     </section><!--/#contact-page-->
     
     <div style="height:15px; width: 1024px"></div>
